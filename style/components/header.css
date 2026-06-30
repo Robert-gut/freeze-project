@@ -1,0 +1,12 @@
+header{
+  background-color: #eeebec;
+  padding: 35px 0;
+}
+
+header nav{
+  float: right;
+}
+
+header nav>ul>li{
+  float: left;
+}
